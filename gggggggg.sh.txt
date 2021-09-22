@@ -1,5 +1,1 @@
-this is a repository which create to pull and push the
-code r documents from pc(local repository)
-to central repository
-deployment is a pipeline from virtual machine to 
-ready application formmating
+git repository  is push and pull the from local repository to central repository
