@@ -1,3 +1,4 @@
 hii
 hello
-friend
+friends
+how are u
