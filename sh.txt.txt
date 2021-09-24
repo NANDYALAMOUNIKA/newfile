@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-git is a source code management 
-=======
-these is git status
->>>>>>> Stashed changes
