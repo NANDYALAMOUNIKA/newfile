@@ -1,3 +1,7 @@
 the file is use to stash
+<<<<<<< Updated upstream
 the file is disappered by using stash
 
+=======
+working ,stagging area into local area
+>>>>>>> Stashed changes
