@@ -1,6 +1,5 @@
 the file is use to stash
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 the file is disappered by using stash
 
 <<<<<<< Updated upstream
@@ -9,7 +8,4 @@ working ,stagging area into local area
 >>>>>>> Stashed changes
 =======
 the file is used to created in git cmd to fech
->>>>>>> Stashed changes
-=======
-working ,stagging area into local area
 >>>>>>> Stashed changes
